@@ -1,20 +1,10 @@
-# Expense Tracker
+# Expense Tracker React
 
-This is a simple React-based Expense Tracker application.
+แอพสำหรับบันทึกรายรับ-รายจ่าย พร้อมเลือกเดือนและหมวดหมู่ ใช้ localStorage ในการเก็บข้อมูล  
+- สามารถเพิ่ม/ลบ/บันทึกรายการ  
+- สามารถใช้ได้ทันทีด้วยคำสั่ง
 
-## Features
-- Add, update, and delete expenses.
-- Track income and expenses monthly.
-- Manage recurring expenses.
-
-## How to Run
-1. Clone the repository.
-2. Run `npm install` to install the dependencies.
-3. Run `npm start` to start the application.
-
-## Dependencies
-- React
-- React DOM
-
-## License
-MIT
+```sh
+npm install
+npm run dev
+```
