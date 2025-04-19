@@ -1,5 +1,7 @@
+import ExpenseTracker from "./ExpenseTracker";
+
 function App() {
-  return <h1>Hello from App!</h1>;
+  return <ExpenseTracker />;
 }
 
 export default App;
