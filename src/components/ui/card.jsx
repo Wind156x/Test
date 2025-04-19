@@ -1,3 +1,4 @@
+import React from "react";
 export function Card({ children }) {
   return <div style={{
     border: "1px solid #e5e7eb",

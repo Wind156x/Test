@@ -1,3 +1,4 @@
+import React from "react";
 export function Button({ children, onClick, className = "", variant, ...props }) {
   let style = {
     padding: "0.5rem 1rem",
