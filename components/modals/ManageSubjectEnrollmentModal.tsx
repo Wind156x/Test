@@ -1,3 +1,4 @@
+// wind156x/test/test-00f0b0a36b4a6fbeb81ded40c72bcedf036dae9a/components/modals/ManageSubjectEnrollmentModal.tsx
 // This file is no longer used and can be deleted.
 // Student management is handled in StudentInfoPage.tsx.
 import React from 'react';
